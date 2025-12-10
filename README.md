@@ -25,7 +25,7 @@ Crafting intelligent, human-centered digital experiences using
 
 # 🎯 About Me
 
-I'm a **Software Developer** focused on **AI-driven systems**, **mobile engineering**, and **human-computer interaction (HCI)**.
+I'm a **Software Developer** focused on **AI-driven systems**, **mobile & software engineering**, and **human-computer interaction (HCI)**.
 
 I specialize in building products that feel:
 
@@ -104,7 +104,7 @@ I care about design that reduces cognitive load while improving user experience 
 
 ### 🔹 Class Whisperer — AI Classroom Assistant  
 **Flutter + Firebase + React&Vite**  
-Turns lectures into clean, searchable summaries.  
+Turns lectures into clean environment to ask questions to professor fearless.  
 🔗 https://github.com/dhruvprmr/class_whisperer  
 
 ---
@@ -133,20 +133,6 @@ Improved metadata quality & researcher UX.
 
 > “Picked up workflows fast and shipped high-quality features.”  
 **— Erdun E**
-
----
-
-# 📊 GitHub Insights
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=dhruvprmr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvprmr&layout=compact&theme=tokyonight&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com?user=dhruvprmr&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
