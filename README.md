@@ -37,7 +37,7 @@ I specialize in building products that feel:
 I care about design that reduces cognitive load while improving user experience and productivity.
 
 ### 🔍 My Expertise  
-- 🤖 **AI-powered applications** (Whisper AI, Gemini, Transformers)  
+- 🤖 **AI-powered applications** (OpenAI API, Gemini)  
 - 📱 **Flutter mobile development**  
 - 🖥 **Java desktop engineering**  
 - 🔌 **Full-stack API development (Node.js, MongoDB)**  
