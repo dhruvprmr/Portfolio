@@ -65,7 +65,7 @@ I care about design that reduces cognitive load while improving user experience 
 
 ### **AI / ML**
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Transformers-huggingface-yellow?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Huggingface-yellow?style=for-the-badge)
 
 ### **Other**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
