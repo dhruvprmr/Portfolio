@@ -64,7 +64,6 @@ I care about design that reduces cognitive load while improving user experience 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **AI / ML**
-![Whisper](https://img.shields.io/badge/Whisper_AI-111?style=for-the-badge)
 ![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-huggingface-yellow?style=for-the-badge)
 
