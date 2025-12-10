@@ -52,7 +52,7 @@ const Navbar = () => {
                 className="text-secondary hover:text-white text-[18px] font-medium cursor-pointer"
               >
                 <a
-                  href="/Resume-Parmar-Dhruvkumar.pdf"
+                  href="/Portfolio/Resume-Parmar-Dhruvkumar.pdf"
                   download
                 >
                   Resume
@@ -96,7 +96,7 @@ const Navbar = () => {
                     className="text-secondary hover:text-white font-medium cursor-pointer text-[16px]"
                     onClick={() => setToggle(false)}
                   >
-                    <a href="/Resume-Parmar-Dhruvkumar.pdf" download>
+                    <a href="/Portfolio/Resume-Parmar-Dhruvkumar.pdf" download>
                       Resume
                     </a>
                   </li>
