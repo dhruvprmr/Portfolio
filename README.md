@@ -3,17 +3,21 @@
 # 🚀 Dhruvkumar Parmar  
 ### **Software Developer – AI | Mobile | HCI | Full-Stack**
 
-Building intelligent, human-centered digital experiences through **AI**, **Flutter**, **Java**, **Python**, and thoughtful **UX design**.
+Crafting intelligent, human-centered digital experiences using  
+**AI**, **Flutter**, **React**, **Java**, **Python**, and **thoughtful UX design**.
 
-<br/>
+---
 
-<img src="https://via.placeholder.com/1200x300/1f103a/ffffff?text=Dhruvkumar+Parmar+Portfolio+Banner" />
+<img src="./public/banner.png" width="100%" alt="Portfolio Banner" />
 
-<br/>
+---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-purple?style=for-the-badge)](#)
+### 🌐 **Portfolio**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-purple?style=for-the-badge)](https://dhruvprmr.github.io/Portfolio)
+
+### 🤝 **Let’s Connect**
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/dhruvprmr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhruvprmr)
 
 </div>
 
@@ -21,128 +25,142 @@ Building intelligent, human-centered digital experiences through **AI**, **Flutt
 
 # 🎯 About Me
 
-I am a **Software Developer** specializing in **AI-driven applications, mobile development, and human-computer interaction**.  
-I love building systems that are **fast, intuitive, and meaningful** for real end-users.
+I'm a **Software Developer** focused on **AI-driven systems**, **mobile engineering**, and **human-computer interaction (HCI)**.
 
-My experience spans:
+I specialize in building products that feel:
 
-- 🎧 **AI-powered application development**
-- 📱 **Flutter mobile engineering**
-- ☁️ **Full-stack API development**
-- 🧠 **Deep learning, Whisper AI, Gemini**
-- 🖥 **Java desktop application engineering**
-- 🧩 **Usability, UX, and HCI workflows**
+✔ fast  
+✔ intuitive  
+✔ user-centered  
+✔ meaningful  
 
-I'm obsessed with creating tools that **reduce cognitive load**, **optimize workflows**, and **help users interact more naturally with technology**.
+I care about design that reduces cognitive load while improving user experience and productivity.
+
+### 🔍 My Expertise  
+- 🤖 **AI-powered applications** (Whisper AI, Gemini, Transformers)  
+- 📱 **Flutter mobile development**  
+- 🖥 **Java desktop engineering**  
+- 🔌 **Full-stack API development (Node.js, MongoDB)**  
+- 🎨 **UX workflows & usability design**  
+- ✨ **HCI-inspired interaction systems**  
 
 ---
 
 # 🛠 Tech Stack
 
 ### **Languages**
-`Java` • `Python` • `Dart` • `JavaScript` • `TypeScript`
+![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Frameworks & Tools**
-`Flutter` • `React` • `Node.js` • `Streamlit` • `Express` • `MongoDB`
+### **Frameworks & Dev Tools**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **AI / ML**
-`Whisper AI` • `Gemini` • `Transformers`  
+![Whisper](https://img.shields.io/badge/Whisper_AI-111?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-huggingface-yellow?style=for-the-badge)
 
-### **Other Tools**
-`Git` • `GitHub` • `Docker` • `Figma`
+### **Other**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2497ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 # 💼 Experience
 
-### **Software Developer Intern – Superstars (USA)**  
-**May 2025 – Aug 2025**
+## 🟣 Software Developer Intern — Superstars (USA)  
+**May 2025 – Aug 2025**  
+- Rebuilt Flutter architecture → **reduced crashes**, improved navigation  
+- Designed clean content + job browsing flows  
+- Implemented optimized data-loading pipelines  
+- Worked via GitHub PR reviews, agile sprints  
 
-- Rebuilt core Flutter architecture → fewer crashes, faster navigation  
-- Designed smoother content + job browsing UX flows  
-- Implemented performance-optimized loading pipelines  
-- Collaborated using GitHub, PR reviews, agile sprints  
-
-
-### **Full-Stack Developer – Mouser (SLU / Rerum)**  
-**May 2025 – Aug 2025**
-
-- Enhanced the research annotation platform used by humanities researchers  
-- Improved metadata pipelines + API integration  
-- Designed clearer, more efficient annotation UX  
+## 🔵 Full-Stack Developer — Mouser (SLU / Rerum)  
+**May 2025 – Aug 2025**  
+- Enhanced the annotation platform used by researchers  
+- Improved metadata pipelines + Rerum API integration  
+- Designed efficient annotation workflows  
 - Refactored Node/Python modules for maintainability  
 
-
-### **Android Developer – Cutting Edge Infotech (India)**  
-**Nov 2022 – May 2023**
-
-- Delivered Android features using XML UI + REST APIs  
+## 🟢 Android Developer — Cutting Edge Infotech (India)  
+**Nov 2022 – May 2023**  
+- Implemented Android features using XML UI + REST APIs  
 - Built reusable UI components  
-- Resolved major stability bugs improving production reliability  
-- Worked closely with design and backend teams  
+- Fixed major stability issues → boosted reliability  
+- Coordinated with backend + design teams  
 
 ---
 
 # 🚀 Highlight Projects
 
-### 🔹 **Class Whisperer – AI Classroom Assistant**  
-**Whisper AI + Python + Streamlit**
-
-Transforms classroom lectures into **structured, searchable summaries** using Whisper AI.  
-Designed for accessibility, clarity, and reducing student cognitive load.
-
-🔗 Source Code: https://github.com/dhruvprmr/class_whisperer  
-🖼 *Screenshot included in repo*
+### 🔹 Class Whisperer — AI Classroom Assistant  
+**Whisper AI + Python + Streamlit**  
+Turns lectures into clean, searchable summaries.  
+🔗 https://github.com/dhruvprmr/class_whisperer  
 
 ---
 
-### 🔹 **ClearPass AI – Interview Assessment Platform**  
-**Java + JavaFX UI + Evaluation Engine**
-
-A desktop application for structured mock interviews with **automated scoring**, question flow control, and evaluation logic.
-
-🔗 Source Code: https://github.com/dhruvprmr/clearpass_ai  
-🖼 *Screenshot included in repo*
+### 🔹 ClearPass AI — Interview Assessment Platform  
+**Java + JavaFX**  
+Mock interview tool with automated scoring & controlled question flows.  
+🔗 https://github.com/dhruvprmr/clearpass_ai  
 
 ---
 
-### 🔹 **Mouser – Rerum Integration Platform**  
-**Node.js + MongoDB + Rerum API**
-
-Improved core annotation workflows, metadata accuracy, and UX reliability for digital humanities researchers.
-
-🔗 Source Code: https://github.com/oss-slu/Mouser  
-🖼 *Screenshot included in repo*
+### 🔹 Mouser — Digital Humanities Annotation Pipeline  
+**Node.js + MongoDB + Rerum API**  
+Improved metadata quality & researcher UX.  
+🔗 https://github.com/oss-slu/Mouser  
 
 ---
 
 # ⭐ Testimonials
 
-> “Dhruv delivered clean, scalable code and consistently helped resolve blockers. A dependable teammate.”  
-**— Mohana Siddhartha Chivukula, Superstars**
+> “Dhruv delivered clean, scalable code and consistently helped resolve blockers.”  
+**— Mohana Siddhartha Chivukula**
 
-> “His Flutter insights improved design and functionality. Reliable, approachable, and highly skilled.”  
-**— Gnana Chand Mallangi, Superstars**
+> “His Flutter insights improved design and functionality. Exceptionally reliable.”  
+**— Gnana Chand Mallangi**
 
-> “Picked up complex workflows quickly and shipped high-quality features. Strong engineer.”  
-**— Erdun E, Superstars**
+> “Picked up workflows fast and shipped high-quality features.”  
+**— Erdun E**
+
+---
+
+# 📊 GitHub Insights
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dhruvprmr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvprmr&layout=compact&theme=tokyonight&hide_border=true)
+
+![Streak](https://streak-stats.demolab.com?user=dhruvprmr&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
 # 📬 Contact
 
-If you want to collaborate, hire, or discuss AI + UX engineering:
-
-📧 **dhruvparmar@example.com**  
+📧 **dhruvparmar1112@gmail.com**  
 🔗 GitHub: https://github.com/dhruvprmr  
-🔗 LinkedIn: *your link here*
+🔗 LinkedIn: https://linkedin.com/in/dhruvprmr  
 
 ---
 
 <div align="center">
 
-### Thanks for checking out my portfolio!  
-**If you like this project, consider giving it a ⭐ on GitHub.**
+### ⚡ Thanks for checking out my portfolio!  
+If you found this project useful or inspiring, **consider giving it a ⭐ on GitHub**.
 
 </div>
-
