@@ -103,14 +103,14 @@ I care about design that reduces cognitive load while improving user experience 
 # 🚀 Highlight Projects
 
 ### 🔹 Class Whisperer — AI Classroom Assistant  
-**Whisper AI + Python + Streamlit**  
+**Flutter + Firebase + React&Vite**  
 Turns lectures into clean, searchable summaries.  
 🔗 https://github.com/dhruvprmr/class_whisperer  
 
 ---
 
 ### 🔹 ClearPass AI — Interview Assessment Platform  
-**Java + JavaFX**  
+**Java + JavaSwing + JavaFX**  
 Mock interview tool with automated scoring & controlled question flows.  
 🔗 https://github.com/dhruvprmr/clearpass_ai  
 
